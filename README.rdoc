@@ -1,0 +1,3 @@
+Shelfari 1.0
+
+A simple app that uses Backbone.js as frontend MV* and Ruby on Rails as its Backend.
